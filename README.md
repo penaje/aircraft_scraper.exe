@@ -1,7 +1,7 @@
 # aircraft_scraper.exe
 A program to scrape aircraft stats from wikipedia given the name of the aircraft
 
-You must have the .exe file inside a folder with a file name "input.json" with the following format:
+You must have the .exe file inside the same folder as the "aircraft_scraper.exe" with a file name "input.json" with the following format:
 
 {
     "COMMAND": "SCRAPE",
